@@ -10,9 +10,10 @@ The game offers a range of different gameplay modes, including solo, duo, and sq
 
 ## Screenshots
 
-![Aux Battle Royale Game Screenshot 1](screenshots/aux_screenshot1.png)
-![Aux Battle Royale Game Screenshot 2](screenshots/aux_screenshot2.png)
-![Aux Battle Royale Game Screenshot 3](screenshots/aux_screenshot3.png)
+![Aux Battle Royale Game Screenshot 1](AUX.png)
+![Aux Battle Royale Game Screenshot 2](AuxModel.png)
+![Aux Battle Royale Game Screenshot 3](AUXAnimation.png)
+![Aux Battle Royale Game Screenshot 4](AUXCharacter.png)
 
 ## Technology Stack
 
